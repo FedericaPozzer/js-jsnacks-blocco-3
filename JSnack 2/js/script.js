@@ -22,7 +22,7 @@ while (sum < 50)  {
         alert("il valore inserito non è un numero");
     };
 
-    sum > 50;
+    // sum > 50; --non serve :D (la condizione iniziale ha già "un finale"!).
 }
 
     console.log("la somma risulta essere maggiore o unguale a 50, fine ciclo!");
